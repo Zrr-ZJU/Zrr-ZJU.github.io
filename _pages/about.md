@@ -2,24 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>ImagingLab@ZJU</a>. (The page of our lab is under construction, sry)
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic1.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>phone number: +86 17326085272</p>
-    <p>Zhejiang University, Hangzhou, China</p>
+  address: 
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+State Key Laboratory of Extreme Photonics and Instrumentation, Zhejiang Univerity, Hangzhou, China<br>
+zhengren@zju.edu.cn, r1172565543@gmail.com<br>
+[Github](https://github.com/Zrr-ZJU) | [Wechat](http://tangeego.github.io//assets/img/wechat_public_account.jpg) | [Bilibili](https://space.bilibili.com/359634156?spm_id_from=333.1007.0.0)
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I received B.Eng. degree in optoelectronic information science and engineering from Zhejiang University, Hangzhou, China, in 2021. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Presently, I am a PhD Student at Zhejiang University, co-advised by Prof. [Zhihai Xu](https://person.zju.edu.cn/0089108#0) and Prof. [Huajun Feng](https://person.zju.edu.cn/0086127). My research focuses on optical imaging simulation and e2e joint optimization to realize better computational camera. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Besides my name, you can also call me TanGeeGo, which is a nicky-ID through my grown-up (I won't tell you the origin of TanGeeGo is that I couldn't understand the english, "Time To GO!", spoken by the [Rifleman](https://wowpedia.fandom.com/wiki/Rifleman) when I was a child :satisfied:). I like anything that brings happiness, not only for me, but for all around. I believe science and technology are supposed to be fun after all.
+
+**Research interest:** Optics, Computational Photography, Deep Learning, Low-level Computer Vision, Hybrid Optics and Advanced Imaging Devices.
