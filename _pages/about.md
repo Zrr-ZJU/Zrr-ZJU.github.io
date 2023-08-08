@@ -23,6 +23,4 @@ I received B.Eng. degree in optoelectronic information science and engineering f
 
 Presently, I am a PhD Student at Zhejiang University, co-advised by Prof. [Zhihai Xu](https://person.zju.edu.cn/0089108#0) and Prof. [Huajun Feng](https://person.zju.edu.cn/0086127). My research focuses on optical imaging simulation and e2e joint optimization to realize better computational camera. 
 
-Besides my name, you can also call me TanGeeGo, which is a nicky-ID through my grown-up (I won't tell you the origin of TanGeeGo is that I couldn't understand the english, "Time To GO!", spoken by the [Rifleman](https://wowpedia.fandom.com/wiki/Rifleman) when I was a child :satisfied:). I like anything that brings happiness, not only for me, but for all around. I believe science and technology are supposed to be fun after all.
-
 **Research interest:** Optics, Computational Photography, Deep Learning, Low-level Computer Vision, Hybrid Optics and Advanced Imaging Devices.
