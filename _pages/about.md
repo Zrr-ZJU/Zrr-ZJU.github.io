@@ -17,7 +17,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 State Key Laboratory of Extreme Photonics and Instrumentation, Zhejiang Univerity, Hangzhou, China<br>
 zhengren@zju.edu.cn, r1172565543@gmail.com<br>
-[Github](https://github.com/Zrr-ZJU) | [Wechat](http://tangeego.github.io//assets/img/wechat_public_account.jpg) | [Bilibili](https://space.bilibili.com/359634156?spm_id_from=333.1007.0.0)
+[Github](https://github.com/Zrr-ZJU) | [Wechat](http://Zrr-ZJU.github.io//assets/img/wechat.jpg) | [Bilibili](https://space.bilibili.com/359634156?spm_id_from=333.1007.0.0)
 
 I received B.Eng. degree in optoelectronic information science and engineering from Zhejiang University, Hangzhou, China, in 2021. 
 
